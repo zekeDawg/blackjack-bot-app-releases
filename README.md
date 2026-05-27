@@ -1,4 +1,4 @@
-# Blackjack Auto Player
+# Blackjack Autoplayer
 A Windows desktop application that autoplays blackjack games on the most popular online casino sites.\
 For questions, comments, or to inquire about access keys, contact support at blackjack.autoplayer.support@gmail.com
 
